@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+__I've changed this file and added this line__ [Link to GitHub](www.github.com)
 Use the left arrow to go back!
